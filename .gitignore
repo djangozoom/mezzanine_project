@@ -1,3 +1,9 @@
+example_project/mezzanine.db
+.Python
+*.pyc
+.DS_Store
 bin/
 lib/
 src/
+build/
+include/
